@@ -25,7 +25,7 @@ Exploration of Airline Passanger Satisfaction to find out:
 
 ## File Descriptions <a name="files"></a>
 
-A notebook describing the work done to answer the questions above, and the data collected to develop the project.
+A notebook describing the work done to answer the questions above, the data collected to develop the project, and a auxiliary library.
 
 ## Results <a name="results"></a>
 
