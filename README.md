@@ -9,11 +9,13 @@
 
 ## Installation <a name="installation"></a>
 
-Libraries used in this project are:
-* [Numpy](https://github.com/numpy/numpy)
-* [Pandas](https://github.com/pandas-dev/pandas)
-* [Matplotlib](https://github.com/matplotlib/matplotlib)
-* [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
+| Package | Version |
+|---------|---------|
+| Python | 3.9
+| Numpy | 1.21.2 |
+| Pandas | 1.3.3|
+| Matplotlib | 3.4.3 |
+| Scikit-learn | 1.0 |
 
 ## Project Motivation <a name="motivation"></a>
 
